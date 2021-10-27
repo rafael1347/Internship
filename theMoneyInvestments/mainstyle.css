@@ -1,0 +1,91 @@
+/* Extra small devices (phones, 400px and down) */
+        @media only screen and (min-width: 400px) {
+            .example {
+                background: black;
+            }
+
+            .responsive {
+                width: 100%;
+                max-width: 200px;
+                height: auto;
+            }
+        }
+
+        /* Small devices (portrait tablets and large phones, 576px and up) */
+        @media only screen and (min-width: 576px) {
+            .example {
+                background: green;
+            }
+
+            .responsive {
+                width: 100%;
+                max-width: 300px;
+                height: auto;
+            }
+        }
+
+        /* Medium devices (landscape tablets, 768px and up) */
+        @media only screen and (min-width: 768px) {
+            .example {
+                background: blue;
+            }
+
+            .responsive {
+                width: 100%;
+                max-width: 600px;
+                height: auto;
+            }
+        }
+
+       
+
+        /* Extra large devices (large laptops and desktops, 1200px and up) */
+        @media only screen and (min-width: 1200px) {
+            .example {
+                background: pink;
+            }
+
+            .responsive {
+                width: 100%;
+                max-width: 800px;
+                height: auto;
+            }
+        }
+
+
+
+
+
+		table{
+          margin:10px;
+         border: solid 1px black;
+        
+}
+
+		td, tr{
+          width: 150px; 
+          border: 1px solid black;
+}
+ div#map {
+        height: 400px;
+        /* The height is 400 pixels */
+        width: 400px;
+       
+        /* The width is the width of the web page */
+      }
+
+	.wrapper{ width: 350px; padding: 20px; }
+	body#login{ font: 14px sans-serif; }
+	.container{ margin-top:30px;}
+	div#title {margin-bottom:0}
+	.error {color: red;}
+	img{height:200px;}
+	
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
 # Internship
-These are the two projects displayed on the resume.
-To visit Website : themoneyinvestments.com
+To view theMoneyInvestments live
+Visit Website : themoneyinvestments.com
 Create an account and login to view webpages. 
